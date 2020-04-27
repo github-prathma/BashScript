@@ -1,0 +1,2 @@
+# BashScript
+Beginner Bash Script
